@@ -1,0 +1,26 @@
+export default function Home() {
+  return (
+    <div style={{ padding: '2rem', fontFamily: 'sans-serif', textAlign: 'center' }}>
+      <h1>TPM Não Mata Marido (Mas Quase 😅)</h1>
+      <p style={{ maxWidth: '600px', margin: '2rem auto' }}>
+        Um guia realista para lidar com o ciclo pré-menstrual, ansiedade, fome sem fim e
+        aquela vontade insana de doces — sem matar ninguém no processo! 💁‍♀️
+      </p>
+      <a
+        href="https://pay.hotmart.com/C99646145I"
+        style={{
+          backgroundColor: '#ff3c74',
+          color: '#fff',
+          padding: '1rem 2rem',
+          borderRadius: '8px',
+          textDecoration: 'none',
+          fontWeight: 'bold',
+          display: 'inline-block',
+          marginTop: '1rem',
+        }}
+      >
+        Comprar por R$ 9,90
+      </a>
+    </div>
+  );
+}
